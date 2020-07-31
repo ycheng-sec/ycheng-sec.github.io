@@ -116,27 +116,27 @@ publications:
       - title: Detecting Promotion Attacks in the App Market Using Neural Networks.
         link: "https://ieeexplore.ieee.org/abstract/document/8685774"
         authors: Daojing He, Kai Hong, Yao Cheng, Zongli Tang, and Mohsen Guizani.
-        conference: IEEE Wireless Communications 26, no. 4 (2019): 110-116.
+        conference: "IEEE Wireless Communications 26, no. 4 (2019): 110-116."
 
 
       - title: A scalable and extensible framework for android malware detection and family attribution.
         link: assets/docs/2018-A Scalable and Extensible Framework for Android Malware Detectionand Family Attribution.pdf
         authors: Li Zhang, Vrizlynn LL Thing, Yao Cheng.
-        conference: Computers & Security 80 (2019): 120-133.
+        conference: "Computers & Security 80 (2019): 120-133."
 
 
       - title: A Survey of Android Exploits in the Wild.
         link: assets/docs/2018-A survey of Android exploits in the wild.pdf
         authors: Huasong Meng, Vrizlynn L.L. Thing, Yao Cheng, Li Zhang, Zhongmin Dai.
-        conference: Computers & Security 76 (2018): 71-91.
+        conference: "Computers & Security 76 (2018): 71-91."
 
 
       - title: Towards Quantitative Evaluation of Privacy Protection Schemes for Electricity Usage Data Sharing.
         link: assets/docs/2018-Towards Quantitative Evaluation of Privacy Protection Schemes for Electricity Usage Data Sharing.pdf
         authors: Daisuke Mashima, Aidana Serikova, Yao Cheng, Binbin Chen.
-        conference: ICT Express 4, no. 1 (2018): 35-41.
+        conference: "ICT Express 4, no. 1 (2018): 35-41."
 
-      - title: SCLib: A Practical and Lightweight Defense against Component Hijacking in Android Applications.
+      - title: "SCLib: A Practical and Lightweight Defense against Component Hijacking in Android Applications."
         link: assets/docs/2018-CODASPY-SCLib A Practical and Lightweight Defense against Component Hijacking in Android Applications.pdf
         authors: Daoyuan Wu, Yao Cheng, Debin Gao, Yingjiu Li and Robert H. Deng.
         conference: In Proceedings of the Eighth ACM Conference on Data and Application Security and Privacy, pp. 299-306. ACM, 2018.
@@ -144,7 +144,7 @@ publications:
       - title: Attack and Countermeasure on Interlock-based Device Pairing Schemes.
         link: assets/docs/2018-Attack and Countermeasure on Interlock-Based Device Pairing Schemes.pdf
         authors: Yongdong Wu, Binbin Chen, Zhigang Zhao and Yao Cheng.
-        conference: IEEE Transactions on Information Forensics and Security 13, no. 3 (2018): 745-757.
+        conference: "IEEE Transactions on Information Forensics and Security 13, no. 3 (2018): 745-757."
 
       - title: Secure Smart Metering Based on LoRa Technology.
         link: assets/docs/2018-Secure Smart Metering Based on LoRa Technology.pdf
@@ -155,7 +155,7 @@ publications:
       - title: User-Friendly Deniable Storage for Mobile Devices.
         link: assets/docs/2017-User-Friendly Deniable Storage for Mobile Devices.pdf
         authors: Bing Chang, Yao Cheng, Bo Chen, Fengwei Zhang, Wen Tao Zhu, Yingjiu Li, Zhan Wang.
-        conference: Computers & Security 72 (2018): 163-174.
+        conference: "Computers & Security 72 (2018): 163-174."
 
 
       - title: "PowerLSTM: Power Demand Forecasting Using Long Short-Term Memory Neural Network."
@@ -173,13 +173,13 @@ publications:
       - title: A Study on a Feasible No-Root Approach on Android.
         link: assets/docs/2017-A study on a feasible no-root approach on Android.pdf
         authors: Yao Cheng, Yingjiu Li, Robert Deng, Lingyun Ying, Wei He.
-        conference: Journal of Computer Security 25, no. 3 (2017): 231-253.
+        conference: "Journal of Computer Security 25, no. 3 (2017): 231-253."
 
 
-      - title: Dissecting Developer Policy Violating Apps: Characterization and Detection.
+      - title: "Dissecting Developer Policy Violating Apps: Characterization and Detection."
         link: assets/docs/2016-Dissecting Policy-Violating Apps Characterization and Detection.pdf
         authors: Su Mon Kywe, Yingjiu Li, Jason Hong, Yao Cheng.
-        conference: In MALWARE 2016: Proceedings of the 11th International Conference on Malicious and Unwanted Software: Fajardo, Puerto Rico, October 18, vol. 21, pp. 10-19.
+        conference: "In MALWARE 2016: Proceedings of the 11th International Conference on Malicious and Unwanted Software: Fajardo, Puerto Rico, October 18, vol. 21, pp. 10-19."
 
 
       - title: Exploiting Android System Services Through Bypassing Service Helpers.
@@ -208,16 +208,16 @@ publications:
       - title: An Anti-Obfuscation Method for Detecting Similarity among Android Applications in Large Scale. [Chinese]
         link: assets/docs/2014-一种抗混淆的大规模Android应用相似性检测方法.pdf
         authors: Sibei Jiao, Lingyun Ying, Yi Yang, Yao Cheng, Purui Su, Dengguo Feng.
-        conference: Journal of computer research and development 51, no. 7 (2014): 1446-1457.
+        conference: "Journal of computer research and development 51, no. 7 (2014): 1446-1457."
 
 
       - title: Research on User Privacy leakage in Mobile Social Messaging Applications. [Chinese]
         link: assets/docs/2014 - 移动社交应用的用户隐私泄漏问题研究.pdf
         authors: Yao Cheng, Lingyun Ying, Sibei Jiao, Purui Su, Dengguo Feng.
-        conference: Chinese Journal of Computers 37, no. 1 (2014): 87-100.
+        conference: "Chinese Journal of Computers 37, no. 1 (2014): 87-100."
 
 
-      - title: Bind Your Phone Number with Caution: Automated User Profiling Through Address Book Matching on Smartphone.
+      - title: "Bind Your Phone Number with Caution: Automated User Profiling Through Address Book Matching on Smartphone."
         link: assets/docs/2013-Bind Your Phone Number with Caution.pdf
         authors: Yao Cheng, Lingyun Ying, Sibei Jiao, Purui Su, Dengguo Feng.
         conference: In Proceedings of the 8th ACM SIGSAC symposium on Information, computer and communications security, pp. 335-340. ACM, 2013.

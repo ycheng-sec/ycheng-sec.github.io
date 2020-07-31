@@ -106,26 +106,23 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Current Research Interest
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Security and privacy in deep learning systems
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Android framework vulnerability analysis
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: mobile application security analysis
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: mobile malware detection
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Blockchain technology applications
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

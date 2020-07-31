@@ -86,27 +86,17 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
+      - title: Keyed Non-parametric Hypothesis Tests
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Yao Cheng, Cheng-Kang Chu, Hsiao-Ying Lin, Marius Lombard-Platet, and David Naccache.
+        conference: In International Conference on Network and System Security (NSS), pp. 632-645. Springer, Cham, 2019.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      
 
 skills:
-    title: Current Research Interest
+    title: Current Research Interest and Emphasis
 
     toolset:
       - name: Security and privacy in deep learning systems
@@ -115,10 +105,10 @@ skills:
       - name: Android framework vulnerability analysis
         level: 90%
 
-      - name: mobile application security analysis
+      - name: Mobile application security analysis
         level: 90%
 
-      - name: mobile malware detection
+      - name: Mobile malware detection
         level: 80%
 
       - name: Blockchain technology applications

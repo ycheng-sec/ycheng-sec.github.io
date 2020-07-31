@@ -204,6 +204,12 @@ publications:
         conference: In 2014 IEEE 13th International Conference on Trust, Security and Privacy in Computing and Communications, pp. 18-26. IEEE, 2014.
 
 
+      - title: "Bind Your Phone Number with Caution: Automated User Profiling Through Address Book Matching on Smartphone."
+        link: assets/docs/2013-Bind Your Phone Number with Caution.pdf
+        authors: Yao Cheng, Lingyun Ying, Sibei Jiao, Purui Su, Dengguo Feng.
+        conference: In Proceedings of the 8th ACM SIGSAC symposium on Information, computer and communications security, pp. 335-340. ACM, 2013.
+
+
       - title: An Anti-Obfuscation Method for Detecting Similarity among Android Applications in Large Scale. [Chinese]
         link: assets/docs/2014-一种抗混淆的大规模Android应用相似性检测方法.pdf
         authors: Sibei Jiao, Lingyun Ying, Yi Yang, Yao Cheng, Purui Su, Dengguo Feng.
@@ -216,20 +222,14 @@ publications:
         conference: "Chinese Journal of Computers 37, no. 1 (2014): 87-100."
 
 
-      - title: "Bind Your Phone Number with Caution: Automated User Profiling Through Address Book Matching on Smartphone."
-        link: assets/docs/2013-Bind Your Phone Number with Caution.pdf
-        authors: Yao Cheng, Lingyun Ying, Sibei Jiao, Purui Su, Dengguo Feng.
-        conference: In Proceedings of the 8th ACM SIGSAC symposium on Information, computer and communications security, pp. 335-340. ACM, 2013.
-
-
-      - title: "[Patent] A hardware-based emulator malicious code online analysis method and system."
-        link: ""
+      - title: "[Patent] A hardware-based emulator malicious code online analysis method and system. [Chinese]"
+        link: "https://patents.google.com/patent/CN102999719B/en"
         authors: Yao Cheng, Rui Wang, Purui Su, Dengguo Feng, Yi Yang, Meining Nie.
         conference: Chinese Patent No. CN102999719 B, August 26, 2015.
 
 
-      - title: "[Patent] A network security emergency response method."
-        link: "#"
+      - title: "[Patent] A network security emergency response method. [Chinese]"
+        link: "https://patents.google.com/patent/CN102594783B/en"
         authors: Yao Cheng, Dengguo Feng, Lingyun Ying, Purui Su.
         conference:  Chinese Patent No. CN102594783 B, October 22, 2014.
 

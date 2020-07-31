@@ -101,7 +101,7 @@ publications:
         conference: In International Conference on Network and System Security (NSS), pp. 632-645. Springer, Cham, 2019.
 
 
-      - title: Securing Intelligent Transportation System: A Blockchain-Based Approach with Attack Mitigation.
+      - title: "Securing Intelligent Transportation System: A Blockchain-Based Approach with Attack Mitigation."
         link: assets/docs/2019 - Securing Intelligent Transportation System- A Blockchain-Based Approach with Attack Mitigation.pdf
         authors: Le Su, Yao Cheng, Huasong Meng, Vrizlynn Thing, Zhe Wang, Linghe Kong, and Long Cheng.
         conference: In International Conference on Smart Blockchain, pp. 109-119. Springer, Cham, 2019.
@@ -158,13 +158,13 @@ publications:
         conference: Computers & Security 72 (2018): 163-174.
 
 
-      - title: PowerLSTM: Power Demand Forecasting Using Long Short-Term Memory Neural Network.
+      - title: "PowerLSTM: Power Demand Forecasting Using Long Short-Term Memory Neural Network."
         link: assets/docs/2017-PowerLSTM Power Demand Forecasting Using Long Short-Term Memory Neural Network.pdf
         authors: Yao Cheng, Chang Xu, Daisuke Mashima, Vrizlynn L. L. Thing and Yongdong Wu.
         conference: In International Conference on Advanced Data Mining and Applications, pp. 727-740. Springer, Cham, 2017.
 
 
-      - title: What You See is Not What You Get: Leakage-Resilient Password Entry Schemes for Smart Glasses.
+      - title: "What You See is Not What You Get: Leakage-Resilient Password Entry Schemes for Smart Glasses."
         link: assets/docs/2017-What You See is Not What You Get Leakage-Resilient Password Entry Schemes for Smart Glasses.pdf
         authors: Yan Li, Yao Cheng, Yingjiu Li, Robert H. Deng.
         conference: In Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security, pp. 327-333. ACM, 2017.
@@ -223,14 +223,12 @@ publications:
         conference: In Proceedings of the 8th ACM SIGSAC symposium on Information, computer and communications security, pp. 335-340. ACM, 2013.
 
 
-      - title: [Patent] A hardware-based emulator malicious code online analysis method and system.
-        link: ""
+      - title: "[Patent] A hardware-based emulator malicious code online analysis method and system."
         authors: Yao Cheng, Rui Wang, Purui Su, Dengguo Feng, Yi Yang, Meining Nie.
         conference: Chinese Patent No. CN102999719 B, August 26, 2015.
 
 
-      - title: [Patent] A network security emergency response method.
-        link: ""
+      - title: "[Patent] A network security emergency response method."
         authors: Yao Cheng, Dengguo Feng, Lingyun Ying, Purui Su.
         conference:  Chinese Patent No. CN102594783 B, October 22, 2014.
 

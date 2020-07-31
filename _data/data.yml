@@ -70,7 +70,8 @@ experiences:
     - role: Scientist
       time: 2017 - 2018
       company: Institute for Infocomm Research, A*STAR, Singapore
-      details: |   
+      details: |
+        # Describe    
           - Applying deep learning algorithms in various security problems.
           - Cybersecurity in smart girds.
           - Blockchain-based secure intelligent transportation systems.
@@ -78,38 +79,55 @@ experiences:
       time: 2015 - 2017
       company: Singapore Management University, Singapore
       details: |
+        # Describe 
           - Mobile system/application security and privacy analysis.
           - User authentication on wearable devices.
           - Usable security solutions.
 
 
 publications:
-        title: Publications
+    title: Publications
     intro: |
-      # Describe
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: Keyed Non-parametric Hypothesis Tests
+      - title: The Art of Computer Programming
         link: "#"
-        authors: Yao Cheng, Cheng-Kang Chu, Hsiao-Ying Lin, Marius Lombard-Platet, and David Naccache.
-        conference: In International Conference on Network and System Security (NSS), pp. 632-645. Springer, Cham, 2019.
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Security and privacy in deep learning systems
+      - name: Python & Django
         level: 98%
 
-      - name: Android framework vulnerability analysis
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: mobile application security analysis
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: mobile malware detection
-        level: 90%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: Blockchain technology applications
-        level: 80%
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
-    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

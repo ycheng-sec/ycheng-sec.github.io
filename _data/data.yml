@@ -86,7 +86,6 @@ experiences:
 publications:
     title: Publications
     intro: |
-        Describe
     papers:
 
       - title: "DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model."
@@ -224,11 +223,13 @@ publications:
 
 
       - title: "[Patent] A hardware-based emulator malicious code online analysis method and system."
+        link: ""
         authors: Yao Cheng, Rui Wang, Purui Su, Dengguo Feng, Yi Yang, Meining Nie.
         conference: Chinese Patent No. CN102999719 B, August 26, 2015.
 
 
       - title: "[Patent] A network security emergency response method."
+        link: "#"
         authors: Yao Cheng, Dengguo Feng, Lingyun Ying, Purui Su.
         conference:  Chinese Patent No. CN102594783 B, October 22, 2014.
 

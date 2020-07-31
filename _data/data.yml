@@ -89,7 +89,7 @@ publications:
         Describe
     papers:
 
-      - title: DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model.
+      - title: "DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model."
         link: assets/docs/2020 - DeepMnemonic.pdf
         authors: Yao Cheng, Chang Xu, Zhen Hai, and Yingjiu Li.
         conference: Accepted by IEEE Transactions on Dependable and Secure Computing, 2020.

@@ -90,7 +90,7 @@ publications:
 
     papers:
       - title: Keyed Non-parametric Hypothesis Tests
-        link: “assets/docs/2019 - Keyed Non-parametric Hypothesis Tests.pdf"
+        link: assets/docs/2019 - Keyed Non-parametric Hypothesis Tests.pdf
         authors: Yao Cheng, Cheng-Kang Chu, Hsiao-Ying Lin, Marius Lombard-Platet, and David Naccache.
         conference: In International Conference on Network and System Security (NSS), pp. 632-645. Springer, Cham, 2019.
 

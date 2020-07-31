@@ -110,7 +110,7 @@ publications:
       - title: Password Enhancement Based on Semantic Transformation.
         link: "https://ieeexplore.ieee.org/abstract/document/8758983"
         authors: Daojing He, Xiao Yang, Beibei Zhou, Yu Wu, Yao Cheng, and Nadra Guizani.
-        conference: IEEE Network 34, no. 1 (2019): 116-121.
+        conference: "IEEE Network 34, no. 1 (2019): 116-121."
 
 
       - title: Detecting Promotion Attacks in the App Market Using Neural Networks.

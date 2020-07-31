@@ -70,16 +70,14 @@ experiences:
     - role: Scientist
       time: 2017 - 2018
       company: Institute for Infocomm Research, A*STAR, Singapore
-      details: |
-        # Describe    
+      details: |   
           - Applying deep learning algorithms in various security problems.
           - Cybersecurity in smart girds.
           - Blockchain-based secure intelligent transportation systems.
     - role: Research Fellow
       time: 2015 - 2017
       company: Singapore Management University, Singapore
-      details: |
-        # Describe 
+      details: | 
           - Mobile system/application security and privacy analysis.
           - User authentication on wearable devices.
           - Usable security solutions.

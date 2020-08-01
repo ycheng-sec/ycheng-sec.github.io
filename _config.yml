@@ -1,9 +1,9 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: CHENG Yao 程瑶
+title: Yao CHENG 程瑶
 baseurl: 'ycheng-sec.github.io' #change it according to your repository name
-description: About CHENG Yao
+description: About Yao CHENG
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar

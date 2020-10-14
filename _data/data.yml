@@ -83,10 +83,16 @@ experiences:
           - Usable security solutions.
 
 
+Hou, Qinsheng, Yao Cheng, and Lingyun Ying. "NativeX: Native Executioner Freezes Android."
 publications:
     title: Publications
     intro: |
     papers:
+
+      - title: "NativeX: Native Executioner Freezes Android."
+        link: assets/docs/22020 - NativeX.pdf
+        authors: Qinsheng Hou, Yao Cheng, and Lingyun Ying.
+        conference: In Proceedings of the 15th ACM Asia Conference on Computer and Communications Security, pp. 458-470. 2020.
 
       - title: "DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model."
         link: assets/docs/2020 - DeepMnemonic.pdf

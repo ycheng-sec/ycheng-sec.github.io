@@ -89,6 +89,11 @@ publications:
     intro: |
     papers:
 
+      - title: "PowerNet: A Smart Energy Forecasting Architecture Based on Neural Networks."
+        link: assets/docs/2020 - PowerNet.pdf
+        authors: Yao Cheng, Chang Xu, Daisuke Mashima, Partha P. Biswas, Geetanjali Chipurupalli, Bin Zhou, Yongdong Wu.
+        conference: To be appeared in IET Smart Cities.
+
       - title: "NativeX: Native Executioner Freezes Android."
         link: assets/docs/2020 - NativeX.pdf
         authors: Qinsheng Hou, Yao Cheng, and Lingyun Ying.
@@ -100,7 +105,7 @@ publications:
         conference: Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC), 2020.
 
 
-      - title: Keyed Non-parametric Hypothesis Tests.
+      - title: "Keyed Non-parametric Hypothesis Tests."
         link: assets/docs/2019 - Keyed Non-parametric Hypothesis Tests.pdf
         authors: Yao Cheng, Cheng-Kang Chu, Hsiao-Ying Lin, Marius Lombard-Platet, and David Naccache.
         conference: In International Conference on Network and System Security (NSS), pp. 632-645. Springer, Cham, 2019.

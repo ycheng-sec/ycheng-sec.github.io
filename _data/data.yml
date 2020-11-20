@@ -89,8 +89,6 @@ publications:
     intro: |
     papers:
 
- 2020.
-
       - title: "PowerNet: A Smart Energy Forecasting Architecture Based on Neural Networks."
         link: assets/docs/2020 - PowerNet.pdf
         authors: Yao Cheng, Chang Xu, Daisuke Mashima, Partha P. Biswas, Geetanjali Chipurupalli, Bin Zhou, Yongdong Wu.

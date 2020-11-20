@@ -89,10 +89,17 @@ publications:
     intro: |
     papers:
 
+ 2020.
+
       - title: "PowerNet: A Smart Energy Forecasting Architecture Based on Neural Networks."
         link: assets/docs/2020 - PowerNet.pdf
         authors: Yao Cheng, Chang Xu, Daisuke Mashima, Partha P. Biswas, Geetanjali Chipurupalli, Bin Zhou, Yongdong Wu.
         conference: To be appeared in IET Smart Cities.
+
+      - title: "Where Does the Robustness Come from? A Study of the Transformation-based Ensemble Defence."
+        link: assets/docs/2020 - Where Does the Robustness Come from? A Study of the Transformation-based Ensemble Defence.pdf
+        authors: Chang Liao, Yao Cheng, Chengfang Fang, and Jie Shi.
+        conference: In Proceedings of the 13th ACM Workshop on Artificial Intelligence and Security (CCS workshop AISec'20).
 
       - title: "NativeX: Native Executioner Freezes Android."
         link: assets/docs/2020 - NativeX.pdf

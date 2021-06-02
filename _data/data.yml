@@ -89,10 +89,15 @@ publications:
     intro: |
     papers:
 
+      - title: "Designing Leakage-Resilient Password Entry on Head-Mounted Smart Wearable Glass Devices."
+        link: "https://ieeexplore.ieee.org/document/9153060"
+        authors: Yan Li, Yao Cheng, Weizhi Meng, Yingjiu Li, Robert H. Deng.
+        conference: IEEE Transactions on Information Forensics and Security, 16, pp.307-321.
+
       - title: "PowerNet: A Smart Energy Forecasting Architecture Based on Neural Networks."
         link: assets/docs/2020 - PowerNet.pdf
         authors: Yao Cheng, Chang Xu, Daisuke Mashima, Partha P. Biswas, Geetanjali Chipurupalli, Bin Zhou, Yongdong Wu.
-        conference: To be appeared in IET Smart Cities.
+        conference: ET Smart Cities, 2(4), pp.199-207.
 
       - title: "Where Does the Robustness Come from? A Study of the Transformation-based Ensemble Defence."
         link: assets/docs/2020 - Where Does the Robustness Come from? A Study of the Transformation-based Ensemble Defence.pdf

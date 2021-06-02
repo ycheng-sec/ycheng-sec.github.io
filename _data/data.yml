@@ -89,6 +89,11 @@ publications:
     intro: |
     papers:
 
+      - title: "Android-based Cryptocurrency Wallets: Attacks and Countermeasures."
+        link: "https://ieeexplore.ieee.org/document/9153060"
+        authors: Cong Li, Daojing He, Shihao Li, Sencun Zhu, Sammy Chan, Yao Cheng.
+        conference: In 2020 IEEE International Conference on Blockchain (Blockchain), pp. 9-16. IEEE, 2020.
+
       - title: "Designing Leakage-Resilient Password Entry on Head-Mounted Smart Wearable Glass Devices."
         link: "https://ieeexplore.ieee.org/document/9153060"
         authors: Yan Li, Yao Cheng, Weizhi Meng, Yingjiu Li, Robert H. Deng.

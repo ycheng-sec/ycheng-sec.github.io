@@ -72,7 +72,7 @@ experiences:
       time: 2017 - 2018
       company: Institute for Infocomm Research, A*STAR, Singapore
       details: |   
-          - item Power demand forecasting and power usage anomaly detection in smart grids using LSTM.
+          - Power demand forecasting and power usage anomaly detection in smart grids using LSTM.
           - Blockchain-based secure intelligent transportation systems.
     - role: Research Fellow
       time: 2015 - 2017
@@ -91,6 +91,11 @@ publications:
         link: "https://arxiv.org/pdf/2112.13214.pdf"
         authors: Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen.
         conference: To appear in ICSE 2022.
+      
+      - title: "DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model."
+        link: assets/docs/2020 - DeepMnemonic.pdf
+        authors: Yao Cheng, Chang Xu, Zhen Hai, and Yingjiu Li.
+        conference: In IEEE Transactions on Dependable and Secure Computing (TDSC), vol. 19, no. 1, pp. 77-90, 1 Jan.-Feb. 2022.
 
       - title: "Android-based Cryptocurrency Wallets: Attacks and Countermeasures."
         link: "https://ieeexplore.ieee.org/document/9153060"
@@ -116,12 +121,6 @@ publications:
         link: assets/docs/2020 - NativeX.pdf
         authors: Qinsheng Hou, Yao Cheng, and Lingyun Ying.
         conference: In Proceedings of the 15th ACM Asia Conference on Computer and Communications Security (AsiaCCS), pp. 458-470. 2020.
-
-      - title: "DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model."
-        link: assets/docs/2020 - DeepMnemonic.pdf
-        authors: Yao Cheng, Chang Xu, Zhen Hai, and Yingjiu Li.
-        conference: Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC), 2020.
-
 
       - title: "Keyed Non-parametric Hypothesis Tests."
         link: assets/docs/2019 - Keyed Non-parametric Hypothesis Tests.pdf

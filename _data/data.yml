@@ -24,7 +24,7 @@ sidebar:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: -fZBko0AAAAJ # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Chinese
@@ -64,15 +64,15 @@ experiences:
       time: 2018 - Present
       company: Huawei International, Singapore
       details: |
-          - Adversarial attacks and defences in Audio Speech Recognition (ASR) systems.
-          - Backdoor detection in deep neural networks.
-          - Malware detection on Huawei high-end mobile products.
-    - role: Scientist
+          - DNN model fairness testing.
+          - DNN poisoning/backdoor attacks, model-level backdoor detection, and sample-level trigger detection. 
+          - Adversarial machine learning attacks and defenses. 
+          - Malware detection for Huawei high-end mobile products.
+    - role: Research Scientist
       time: 2017 - 2018
       company: Institute for Infocomm Research, A*STAR, Singapore
       details: |   
-          - Applying deep learning algorithms in various security problems.
-          - Cybersecurity in smart girds.
+          - item Power demand forecasting and power usage anomaly detection in smart grids using LSTM.
           - Blockchain-based secure intelligent transportation systems.
     - role: Research Fellow
       time: 2015 - 2017
@@ -266,19 +266,19 @@ skills:
     title: Current Research Interest and Emphasis
 
     toolset:
-      - name: Security and privacy in deep learning systems
+      - name: Trustworthy AI technologies
         level: 100%
 
-      - name: Android framework vulnerability analysis
+      - name: AI algorithms and applications
         level: 90%
 
-      - name: Mobile application security analysis
+      - name: Malware analysis and detection
         level: 90%
 
-      - name: Mobile malware detection
+      - name: System vulnerability analysis
         level: 80%
 
-      - name: Blockchain technology applications
+      - name: blockchain technologies and related security solutions
         level: 70%
 
 footer: >

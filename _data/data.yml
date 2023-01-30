@@ -28,23 +28,27 @@ sidebar:
     goodreads: -fZBko0AAAAJ # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Chinese
+      title: Languages
+      info:
+        - idiom: Chinese
         level: Native
 
-      - idiom: English
+        - idiom: English
         level: Professional
 
-      - idiom: Japanese
+        - idiom: Japanese
         level: Conversational
 
     interests:
-      - item: Playing guitar
+      title: Interests
+      info:
+        - item: Playing guitar
         link: https://music.163.com/#/djradio?id=527287591
 
-      - item: Skateboarding
+        - item: Skateboarding
         link:
 
-      - item: Cooking
+        - item: Cooking
         link:
 
 
@@ -55,43 +59,46 @@ career-profile:
     summary: |
       I'm currently a senior principal consultant working on AI quality framework and assessment at TÜV SÜD's ASEAN, with the aim of making AI systems trustworthy. My expertise lies in security and privacy in AI systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
 
-
 education:
-    - degree: PhD in Computer Science
-      university: University of Chinese Academy of Sciences
-      time: 2009 - 2015
-      details: |
-        I obtained my Ph.D. degree in Computer Science at the Institute of Software, Chinese Academy of Sciences, under the supervision of Professor Dengguo Feng and Professor Purui Su.
-
+    title: Education
+    info:
+      - degree: PhD in Computer Science
+        university: University of Chinese Academy of Sciences
+        time: 2009 - 2015
+        details: |
+          I obtained my Ph.D. degree in Computer Science at the Institute of Software, Chinese Academy of Sciences, under the supervision of Professor Dengguo Feng and Professor Purui Su.
 experiences:
-    - role: Senior Principal Consultant
-      time: 2022 - Present
-      company: TÜV SÜD's ASEAN, Singapore
-      details: |
-          - AI quality framework develpment.
-          - AI quality assessment. 
-    - role: Senior Researcher
-      time: 2018 - 2022
-      company: Huawei International, Singapore
-      details: |
-          - Technology for improving trustworthy AI.
-          - AI model fairness testing.
-          - DNN poisoning/backdoor attacks, model-level backdoor detection, and sample-level trigger detection. 
-          - Adversarial machine learning attacks and defenses. 
-          - Malware detection for Huawei high-end mobile products.
-    - role: Research Scientist
-      time: 2017 - 2018
-      company: Institute for Infocomm Research, A*STAR, Singapore
-      details: |   
-          - Power demand forecasting and anomaly detection in smart grids using LSTM.
-          - Blockchain-based secure intelligent transportation systems.
-    - role: Research Fellow
-      time: 2015 - 2017
-      company: Singapore Management University, Singapore
-      details: | 
-          - Mobile system/application security and privacy analysis.
-          - User authentication on wearable devices.
-          - Usable security solutions.
+    title: Experiences
+    info:
+
+      - role: Senior Principal Consultant
+        time: 2022 - Present
+        company: TÜV SÜD's ASEAN, Singapore
+        details: |
+            - AI quality framework develpment.
+            - AI quality assessment. 
+      - role: Senior Researcher
+        time: 2018 - 2022
+        company: Huawei International, Singapore
+        details: |
+            - Technology for improving trustworthy AI.
+            - AI model fairness testing.
+            - DNN poisoning/backdoor attacks, model-level backdoor detection, and sample-level trigger detection. 
+            - Adversarial machine learning attacks and defenses. 
+            - Malware detection for Huawei high-end mobile products.
+      - role: Research Scientist
+        time: 2017 - 2018
+        company: Institute for Infocomm Research, A*STAR, Singapore
+        details: |   
+            - Power demand forecasting and anomaly detection in smart grids using LSTM.
+            - Blockchain-based secure intelligent transportation systems.
+      - role: Research Fellow
+        time: 2015 - 2017
+        company: Singapore Management University, Singapore
+        details: | 
+            - Mobile system/application security and privacy analysis.
+            - User authentication on wearable devices.
+            - Usable security solutions.
 
 
 publications:

@@ -31,25 +31,25 @@ sidebar:
       title: Languages
       info:
         - idiom: Chinese
-        level: Native
+          level: Native
 
         - idiom: English
-        level: Professional
+          level: Professional
 
         - idiom: Japanese
-        level: Conversational
+          level: Conversational
 
     interests:
       title: Interests
       info:
         - item: Playing guitar
-        link: https://music.163.com/#/djradio?id=527287591
+          link: https://music.163.com/#/djradio?id=527287591
 
         - item: Skateboarding
-        link:
+          link:
 
         - item: Cooking
-        link:
+          link:
 
 
 career-profile:
@@ -57,7 +57,7 @@ career-profile:
     # summary: |
       # I'm currently a senior researcher working on trustworthy AI in Shield Lab at Huawei Singapore. My research interests include security and privacy in deep learning systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
     summary: |
-      I'm currently a senior principal consultant working on AI quality framework and assessment at TÜV SÜD's ASEAN, with the aim of making AI systems trustworthy. My expertise lies in security and privacy in AI systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
+      I'm currently a senior principal consultant working on AI quality framework and AI system assessment at TÜV SÜD ASEAN, with the aim of promoting trustworthy AI adoption and digital transformation. My expertise lies in security and privacy in AI systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
 
 education:
     title: Education

@@ -8,15 +8,16 @@ sidebar:
 
     # Profile information
     name: Yao CHENG 程瑶
-    tagline: Senior Researcher
+    tagline: Senior Principal Consultant
     avatar: chengyao.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: chengyao101(at)huawei.com
+    # email: chengyao101(at)huawei.com
+    email: yao.cheng(at)tuvsud.com
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
     linkedin: yao-cheng-57bb459a
-    website: 17-08, The Metropolis Tower 2, 11 North Buona Vista Drive Singapore, 138589
+    website: 15 International Business Park, TÜV SÜD @ IBP, Singapore 609937
     # github: sharu725
     # telegram: # add your nickname without '@' sign
     # gitlab:
@@ -46,10 +47,12 @@ sidebar:
       - item: Cooking
         link:
 
+
+# I'm currently a senior researcher working on trustworthy AI in Shield Lab at Huawei Singapore. My research interests include security and privacy in deep learning systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
 career-profile:
     title: Hello!
     summary: |
-      I'm currently a senior researcher working on trustworthy AI in Shield Lab at Huawei Singapore. My research interests include security and privacy in deep learning systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
+      I'm currently a senior principal consultant working on AI quality framework and assessment at TÜV SÜD's ASEAN, with the aim of making AI systems trustworthy. My expertise lies in security and privacy in AI systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
 
 
 education:
@@ -60,11 +63,18 @@ education:
         I obtained my Ph.D. degree in Computer Science at the Institute of Software, Chinese Academy of Sciences, under the supervision of Professor Dengguo Feng and Professor Purui Su.
 
 experiences:
+    - role: Senior Principal Consultant
+      time: 2022 - Present
+      company: TÜV SÜD's ASEAN, Singapore
+      details: |
+          - AI quality framework develpment.
+          - AI quality assessment. 
     - role: Senior Researcher
-      time: 2018 - Present
+      time: 2018 - 2022
       company: Huawei International, Singapore
       details: |
-          - DNN model fairness testing.
+          - Technology for improving trustworthy AI.
+          - AI model fairness testing.
           - DNN poisoning/backdoor attacks, model-level backdoor detection, and sample-level trigger detection. 
           - Adversarial machine learning attacks and defenses. 
           - Malware detection for Huawei high-end mobile products.
@@ -90,7 +100,7 @@ publications:
       - title: "NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification."
         link: "https://arxiv.org/pdf/2112.13214.pdf"
         authors: Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen.
-        conference: To appear in ICSE 2022.
+        conference: In the 44th International Conference on Software Engineering (ICSE 2022).
       
       - title: "DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model."
         link: assets/docs/2020 - DeepMnemonic.pdf

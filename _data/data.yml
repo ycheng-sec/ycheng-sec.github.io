@@ -48,9 +48,10 @@ sidebar:
         link:
 
 
-# I'm currently a senior researcher working on trustworthy AI in Shield Lab at Huawei Singapore. My research interests include security and privacy in deep learning systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
 career-profile:
     title: Hello!
+    # summary: |
+      # I'm currently a senior researcher working on trustworthy AI in Shield Lab at Huawei Singapore. My research interests include security and privacy in deep learning systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
     summary: |
       I'm currently a senior principal consultant working on AI quality framework and assessment at TÜV SÜD's ASEAN, with the aim of making AI systems trustworthy. My expertise lies in security and privacy in AI systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
 
@@ -97,10 +98,15 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Understanding Real-world Threats to Deep Learning Models in Android Apps."
+        link: "https://arxiv.org/pdf/2209.09577.pdf"
+        authors: Zizhuang Deng, Kai Chen, Guozhu Meng, Xiaodong Zhang, Ke Xu, and Yao Cheng.
+        conference: In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, pp. 785-799. 2022.
+      
       - title: "NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification."
         link: "https://arxiv.org/pdf/2112.13214.pdf"
         authors: Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen.
-        conference: In the 44th International Conference on Software Engineering (ICSE 2022).
+        conference: In Proceedings of the 44th International Conference on Software Engineering (ICSE 2022).
       
       - title: "DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model."
         link: assets/docs/2020 - DeepMnemonic.pdf

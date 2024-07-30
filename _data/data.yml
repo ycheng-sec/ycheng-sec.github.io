@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: CHENG,Yao程瑶
+    name: CHENG,Yao
     tagline: Senior Principal Consultant
     avatar: chengyao.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -45,10 +45,10 @@ sidebar:
         - item: Playing guitar
           link: https://music.163.com/#/djradio?id=527287591
 
-        - item: Skateboarding
+        - item: Cooking
           link:
 
-        - item: Cooking
+        - item: Skateboarding
           link:
 
 
@@ -56,8 +56,10 @@ career-profile:
     title: Hello!
     # summary: |
       # I'm currently a senior researcher working on trustworthy AI in Shield Lab at Huawei Singapore. My research interests include security and privacy in deep learning systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
+    # summary: |
+      # As a Senior Principal Consultant for AI Quality at TÜV SÜD Asia Pacific Pte. Ltd., I am responsible for the development of AI quality frameworks and AI system assessments. My primary objective is to facilitate the trustworthy adoption of AI and drive digital transformation in organizations. My expertise lies in the domains of security and privacy in AI systems, as well as blockchain technology applications. I am passionate about helping businesses navigate the complex landscape of emerging technologies in a secure and efficient manner, to achieve their strategic goals.
     summary: |
-      As a Senior Principal Consultant for AI Quality at TÜV SÜD Asia Pacific Pte. Ltd., I am responsible for the development of AI quality frameworks and AI system assessments. My primary objective is to facilitate the trustworthy adoption of AI and drive digital transformation in organizations. My expertise lies in the domains of security and privacy in AI systems, as well as blockchain technology applications. I am passionate about helping businesses navigate the complex landscape of emerging technologies in a secure and efficient manner, to achieve their strategic goals.
+      In my current role, I am responsible for the development of AI quality frameworks and AI system assessments. My primary objective is to facilitate the trustworthy adoption of Artificial Intelligence, ensuring that organizations can leverage emerging technologies to meet their strategic goals securely and efficiently. I have developed a robust understanding of the complex landscape in this domain and take pride in helping businesses navigate these challenges with confidence.
 
 education:
     title: Education
@@ -70,19 +72,24 @@ education:
 experiences:
     title: Experiences
     info:
-
+      - role: Trustworthy AI Expert
+        time: 2023 - Present
+        company: AIQURIS, Singapore
+        details: |
+            - Design and develop solutions for safe AI procurement for enterprises.
+            - Communicate complex technical concepts to non-technical stakeholders, ensuring seamless collaboration and understanding across organizational level.
       - role: Senior Principal Consultant
         time: 2022 - Present
         company: TÜV SÜD's Asia Pacific, Singapore
         details: |
-            - TÜV SÜD AI quality framework development, considering upcoming regulations, standards, best practice.
+            - TÜV SÜD AI quality framework development, considering upcoming regulations, standards, and best practice.
             - AI system in-depth quality assessments, in both qualitative and quatitative manners. 
             - Trainer for AI Quality Certification Program (AIQCP).
       - role: Senior Researcher
         time: 2018 - 2022
         company: Huawei International, Singapore
         details: |
-            - Technology for improving trustworthy AI.
+            - Research on technologies for improving trustworthy AI.
             - AI model fairness testing.
             - DNN poisoning/backdoor attacks, model-level backdoor detection, and sample-level trigger detection. 
             - Adversarial machine learning attacks and defenses. 
@@ -103,16 +110,31 @@ experiences:
 
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
     papers:
+      - title: "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators."
+        link: "https://dl.acm.org/doi/pdf/10.1145/3660796"
+        authors: Jinyin Chen, Chengyu Jia, Yunjie Yan, Jie Ge, Haibin Zheng, Yao Cheng.
+        conference: Proceedings of the ACM on Software Engineering 1, no. FSE (2024): 2005-2027.
+
+      - title: "EdgePro: Edge Deep Learning Model Protection via Neuron Authorization."
+        link: "https://ieeexplore.ieee.org/document/10433683"
+        authors: Jinyin Chen, Haibin Zheng, Tao Liu, Jiawei Liu, Yao Cheng, Xuhong Zhang, Shouling Ji.
+        conference: IEEE Transactions on Dependable and Secure Computing (2024).
+
+      - title: "FedRight: An effective model copyright protection for federated learning."
+        link: "https://dl.acm.org/doi/10.1016/j.cose.2023.103504"
+        authors: Jinyin Chen, Mingjun Li, Yao Cheng, Haibin Zheng.
+        conference: Computers & Security 135 (2023): 103504.
+
       - title: "Understanding Real-world Threats to Deep Learning Models in Android Apps."
-        link: "https://arxiv.org/pdf/2209.09577.pdf"
+        link: "https://dl.acm.org/doi/pdf/10.1145/3548606.3559388"
         authors: Zizhuang Deng, Kai Chen, Guozhu Meng, Xiaodong Zhang, Ke Xu, and Yao Cheng.
         conference: In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, pp. 785-799. 2022.
       
       - title: "NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification."
-        link: "https://arxiv.org/pdf/2112.13214.pdf"
+        link: "https://dl.acm.org/doi/abs/10.1145/3510003.3510123"
         authors: Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen.
         conference: In Proceedings of the 44th International Conference on Software Engineering (ICSE 2022).
       
@@ -122,7 +144,7 @@ publications:
         conference: In IEEE Transactions on Dependable and Secure Computing (TDSC), vol. 19, no. 1, pp. 77-90, 1 Jan.-Feb. 2022.
 
       - title: "Android-based Cryptocurrency Wallets: Attacks and Countermeasures."
-        link: "https://ieeexplore.ieee.org/document/9153060"
+        link: "https://ieeexplore.ieee.org/document/9284708"
         authors: Cong Li, Daojing He, Shihao Li, Sencun Zhu, Sammy Chan, Yao Cheng.
         conference: In 2020 IEEE International Conference on Blockchain (Blockchain), pp. 9-16. IEEE, 2020.
 

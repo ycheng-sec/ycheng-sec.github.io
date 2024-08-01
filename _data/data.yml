@@ -73,7 +73,7 @@ experiences:
     title: Experiences
     info:
       - role: Trustworthy AI Expert
-        time: 2023 - Present
+        time: 2024 - Present
         company: AIQURIS, Singapore
         details: |
             - Design and develop solutions for safe AI procurement for enterprises.
@@ -108,9 +108,8 @@ experiences:
             - User authentication on wearable devices.
             - Usable security solutions.
 
-
 publications:
-    title: Selected Publications
+    title: "Selected Publications"
     intro: |
     papers:
       - title: "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators."

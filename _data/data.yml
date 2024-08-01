@@ -109,7 +109,7 @@ experiences:
             - Usable security solutions.
 
 publications:
-    title: "Selected Publications"
+    title: Selected Publications
     intro: |
     papers:
       - title: "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators."
@@ -125,7 +125,7 @@ publications:
       - title: "FedRight: An effective model copyright protection for federated learning."
         link: "https://dl.acm.org/doi/10.1016/j.cose.2023.103504"
         authors: Jinyin Chen, Mingjun Li, Yao Cheng, Haibin Zheng.
-        conference: Computers & Security 135 (2023): 103504.
+        conference: Computers & Security 135 (2023), 103504.
 
       - title: "Understanding Real-world Threats to Deep Learning Models in Android Apps."
         link: "https://dl.acm.org/doi/pdf/10.1145/3548606.3559388"

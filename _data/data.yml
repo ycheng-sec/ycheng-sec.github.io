@@ -115,7 +115,7 @@ publications:
       - title: "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators."
         link: "https://dl.acm.org/doi/pdf/10.1145/3660796"
         authors: Jinyin Chen, Chengyu Jia, Yunjie Yan, Jie Ge, Haibin Zheng, Yao Cheng.
-        conference: Proceedings of the ACM on Software Engineering 1, no. FSE (2024): 2005-2027.
+        conference: Proceedings of the ACM on Software Engineering 1, no. FSE (2024), 2005-2027.
 
       - title: "EdgePro: Edge Deep Learning Model Protection via Neuron Authorization."
         link: "https://ieeexplore.ieee.org/document/10433683"

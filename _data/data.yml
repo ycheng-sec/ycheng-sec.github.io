@@ -110,7 +110,7 @@ publications:
       - title: "Backdoor Online Tracing With Evolving Graphs."
         link: "https://ieeexplore.ieee.org/abstract/document/10752589"
         authors: Chengyu Jia, Jinyin Chen, Shouling Ji, Yao Cheng, Haibin Zheng, Qi Xuan.
-        conference: IEEE Transactions on Information Forensics and Security, 19 (2024): 10314-10327.
+        conference: IEEE Transactions on Information Forensics and Security, vol. 19, pp. 10314-10327, 2024.
 
       - title: "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators."
         link: "https://dl.acm.org/doi/pdf/10.1145/3660796"

@@ -310,20 +310,20 @@ skills:
     title: Areas of Expertise
 
     toolset:
-      - name: Responsible AI and governance frameworks
+      - name: Responsible AI adoption
         level: 100%
 
-      - name: AI risk assessment and mitigation strategies
+      - name: AI risk assessment and mitigation
         level: 100%
 
-      - name: AI regulatory alignment and policy development
+      - name: AI governance framework and policy development
+        level: 95%
+
+      - name: AI-driven applicationss
         level: 90%
 
-      - name: AI-driven application, including LLM
-        level: 80%
-
-      - name: Cross-functional leadership and strategic consulting
-        level: 70%
+      - name: Leadership and strategic consulting
+        level: 85%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -8,16 +8,16 @@ sidebar:
 
     # Profile information
     name: CHENG,Yao
-    tagline: Senior Principal Consultant
+    tagline: Principal AI Expert
     avatar: chengyao.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     # email: chengyao101(at)huawei.com
-    email: yao.cheng(at)tuvsud.com
+    email: yao.cheng(at)aiquris.com
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
     linkedin: yao-cheng-57bb459a
-    website: 15 International Business Park, TÜV SÜD @ IBP, Singapore 609937
+    website: 9 Battery Rd, Level 28, Singapore 049910 
     # github: sharu725
     # telegram: # add your nickname without '@' sign
     # gitlab:
@@ -58,9 +58,13 @@ career-profile:
       # I'm currently a senior researcher working on trustworthy AI in Shield Lab at Huawei Singapore. My research interests include security and privacy in deep learning systems, blockchain technology applications, Android framework vulnerability analysis, mobile application security analysis, and mobile malware detection.
     # summary: |
       # As a Senior Principal Consultant for AI Quality at TÜV SÜD Asia Pacific Pte. Ltd., I am responsible for the development of AI quality frameworks and AI system assessments. My primary objective is to facilitate the trustworthy adoption of AI and drive digital transformation in organizations. My expertise lies in the domains of security and privacy in AI systems, as well as blockchain technology applications. I am passionate about helping businesses navigate the complex landscape of emerging technologies in a secure and efficient manner, to achieve their strategic goals.
+    # summary: |
+    #   In my current role, I am responsible for the development of AI quality frameworks and AI system assessments. My primary objective is to facilitate the trustworthy adoption of Artificial Intelligence, ensuring that organizations can leverage emerging technologies to meet their strategic goals securely and efficiently. I have developed a robust understanding of the complex landscape in this domain and take pride in helping businesses navigate these challenges with confidence.
     summary: |
-      In my current role, I am responsible for the development of AI quality frameworks and AI system assessments. My primary objective is to facilitate the trustworthy adoption of Artificial Intelligence, ensuring that organizations can leverage emerging technologies to meet their strategic goals securely and efficiently. I have developed a robust understanding of the complex landscape in this domain and take pride in helping businesses navigate these challenges with confidence.
-
+      With over a decade of experience at the intersection of AI, security, and risk governance, I specialize in enabling responsible and effective AI adoption within complex, regulated environments. My expertise lies in operationalizing AI governance by embedding trust, safety, and accountability throughout the AI lifecycle, from model evaluation and risk assessment to quality assurance and regulatory compliance.
+      Currently serving as Principal AI Expert at AIQURIS, I advise organizations on enterprise AI readiness, risk frameworks, and policy development. I work cross-functionally with legal, compliance, and technical teams to ensure that AI deployments are not only innovative but aligned with business objectives, risk appetites, and emerging regulations.
+      As a member of Singapore’s AI Technical Committee (AITC), I actively contribute to the development of national AI standards, including SS ISO/IEC 42001:2024, which I helped launch as a keynote speaker.
+      With a Ph.D. in Computer Science, I combine deep technical insight with strategic oversight, staying attuned to the fast-evolving AI landscape. I thrive in multidisciplinary environments and am passionate about helping organizations scale AI responsibly—with confidence and clarity.
 education:
     title: Education
     info:
@@ -72,46 +76,42 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Trustworthy AI Expert
+      - role: Principal AI Expert
         time: 2024 - Present
-        company: AIQURIS, Singapore
+        company: AIQURIS (A TÜV SÜD Venture), Singapore
         details: |
-            - Design and develop solutions for safe AI procurement for enterprises.
-            - Communicate complex technical concepts to non-technical stakeholders, ensuring seamless collaboration and understanding across organizational level.
-      - role: Senior Principal Consultant
-        time: 2022 - Present
+            - Founding team member leading the design of an intelligent SaaS platform for responsible AI adoption. I translate AI governance expertise into scalable product features, covering risk profiling, regulatory mapping, and compliance automation. I have integrated expert systems and LLMs to the product, reducing risk assessment effort by up to 70%. The platform is adopted by leading financial institutions and government agencies. I also provide expert consulting on AI risk, compliance, and policy alignment.
+      - role: Principal Consultant
+        time: 2022 - 2024
         company: TÜV SÜD's Asia Pacific, Singapore
         details: |
-            - TÜV SÜD AI quality framework development, considering upcoming regulations, standards, and best practice.
-            - AI system in-depth quality assessments, in both qualitative and quatitative manners. 
+            - Advised clients on AI readiness, data governance, and regulatory compliance. Led cross-sector AI assessments, developed governance policies aligned with ISO/IEC standards, and streamlined regulatory audits using LLMs. 
             - Trainer for AI Quality Certification Program (AIQCP).
       - role: Senior Researcher
         time: 2018 - 2022
         company: Huawei International, Singapore
         details: |
-            - Research on technologies for improving trustworthy AI.
-            - AI model fairness testing.
-            - DNN poisoning/backdoor attacks, model-level backdoor detection, and sample-level trigger detection. 
-            - Adversarial machine learning attacks and defenses. 
-            - Malware detection for Huawei high-end mobile products.
+            - Led research bridging trustworthy AI innovations with commercial deployment. Conducted performance, fairness, and security testing on advanced AI models. Developed adversarial robustness features for Huawei’s MindSpore AI framework. Created ML-driven dynamic malware detection solutions enhancing mobile device security.
       - role: Research Scientist
         time: 2017 - 2018
         company: Institute for Infocomm Research, A*STAR, Singapore
         details: |   
-            - Power demand forecasting and anomaly detection in smart grids using LSTM.
-            - Blockchain-based secure intelligent transportation systems.
+            - Collaborated with government agencies on AI and blockchain initiatives supporting Singapore’s Smart Nation Programme. Developed AI models for power demand forecasting and anomaly detection in smart grids for the Energy Market Authority. Contributed to blockchain solutions enhancing security in intelligent transportation systems with the Land Transport Authority.
       - role: Research Fellow
         time: 2015 - 2017
         company: Singapore Management University, Singapore
         details: | 
-            - Mobile system/application security and privacy analysis.
-            - User authentication on wearable devices.
-            - Usable security solutions.
+            - Conducted advanced research on mobile security and privacy, focusing on developing practical security solutions for mobile and wearable devices. Conducted vulnerability analyses and designed user-friendly authentication methods that balance security with usability.
 
 publications:
     title: Selected Publications
     intro: |
     papers:
+      - title: "Backdoor Online Tracing With Evolving Graphs."
+        link: "https://ieeexplore.ieee.org/abstract/document/10752589"
+        authors: Chengyu Jia, Jinyin Chen, Shouling Ji, Yao Cheng, Haibin Zheng, Qi Xuan.
+        confernece: IEEE Transactions on Information Forensics and Security, 19 (2024): 10314-10327.
+
       - title: "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators."
         link: "https://dl.acm.org/doi/pdf/10.1145/3660796"
         authors: Jinyin Chen, Chengyu Jia, Yunjie Yan, Jie Ge, Haibin Zheng, Yao Cheng.

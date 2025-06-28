@@ -307,22 +307,22 @@ publications:
         conference:  Chinese Patent No. CN102594783 B, October 22, 2014.
 
 skills:
-    title: Current Research Interest and Emphasis
+    title: Areas of Expertise
 
     toolset:
-      - name: Trustworthy AI technologies
+      - name: Responsible AI and governance frameworks
         level: 100%
 
-      - name: AI algorithms and applications
+      - name: AI risk assessment and mitigation strategies
+        level: 100%
+
+      - name: AI regulatory alignment and policy development
         level: 90%
 
-      - name: Malware analysis and detection
-        level: 90%
-
-      - name: System vulnerability analysis
+      - name: AI-driven application, including LLM
         level: 80%
 
-      - name: Blockchain technologies
+      - name: Cross-functional leadership and strategic consulting
         level: 70%
 
 footer: >
